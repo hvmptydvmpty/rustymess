@@ -1,2 +1,0 @@
-# rustymess
-Learning Rust
